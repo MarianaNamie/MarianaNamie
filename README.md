@@ -13,7 +13,7 @@
   <img align="center" alt="Mari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mari-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Mari-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Mari-pic" height="150" style="border-radius:50px;" src="https://drive.google.com/file/d/1dt8MKbjUMNoCjnCOrP9ZVmPdhz-tVz1A/view?usp=sharing">
+  <img align="right" alt="Mari-pic" height="150" style="border-radius:50px;" src="https://drive.google.com/file/d/1dt8MKbjUMNoCjnCOrP9ZVmPdhz-tVz1A/view">
 </div>
   
   ##
