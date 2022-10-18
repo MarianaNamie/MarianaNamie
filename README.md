@@ -1,4 +1,6 @@
-### Oiee, sou a Mari 👋
+### Oiee, sou a Mari 👋🏻
+
+📚 Estudando Análise e Desenvolvimento de Sistemas
 
 <div align="center">
   <a href="https://github.com/MarianaNamie">
